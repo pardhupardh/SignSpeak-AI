@@ -1,8 +1,8 @@
-# Ì¥ü SignSpeak AI - Real-Time Sign Language Translator
+# SignSpeak AI - Real-Time Sign Language Translator
 
 A real-time American Sign Language (ASL) translator powered by deep learning and computer vision.
 
-## Ìºü Features
+## Features
 
 - Real-Time Recognition using webcam
 - High Accuracy deep learning model
@@ -11,7 +11,7 @@ A real-time American Sign Language (ASL) translator powered by deep learning and
 - Text-to-Speech conversion
 - Interactive Streamlit UI
 
-## Ìª†Ô∏è Tech Stack
+## Tech Stack
 
 - Python 3.10+
 - TensorFlow/Keras
@@ -20,7 +20,7 @@ A real-time American Sign Language (ASL) translator powered by deep learning and
 - Streamlit
 - NumPy & scikit-learn
 
-## Ì∫Ä Getting Started
+## Getting Started
 
 ### Installation
 ```bash
@@ -34,15 +34,15 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Ì≥ä Performance
+## Performance
 
 - Test Accuracy: 80-90%
 - Real-time inference at ~30 FPS
 
-## Ì±§ Author
+## Author
 
-Your Name
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Pardhasaradhi
+- GitHub: [@pardhupardh](https://github.com/pardhupardh)
 
 ---
 
